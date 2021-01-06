@@ -1,0 +1,18 @@
+h1{
+    color: #803535;
+    height: 1in;
+    background-color: rgba(244, 165, 96, 0.253);
+    font-size: 2em;
+}
+.blog{
+    border: 1px solid purple;
+    border-radius: 20px;
+    width: 30%;
+    text-align: justify;
+    margin: 1.3%;
+    display: inline-block;
+}
+.blog h3,p{
+    margin: 0px 5px 0px 5px;
+}
+.blog h3{text-align: center;}
